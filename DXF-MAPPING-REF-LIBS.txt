@@ -1,0 +1,11 @@
+Visual Basic Reference Libraries:
+  - Visual Basic For Applications
+  - Solidworks 2020 Extensibility Type Library
+  - OLE Automation
+  - SOLIDWORKS Utilities 2015 Type Library
+  - Microsoft Forms 2.0 Object Library
+  - Microsoft Scripting Runtime
+  - SldWorks 2020 Type Library
+  - SOLIDWORKS 2020 Commands type library
+  - SOLIDWORKS 2020 Constant type library
+
